@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ConnectChat Lite</string>
+    <!-- Authentication -->
+    <string name="login_title">Login</string>
+    <string name="register_title">Register</string>
+    <string name="phone">Phone number</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="no_account">Create new account</string>
+    <!-- Navigation Tabs -->
+    <string name="tab_chats">Chats</string>
+    <string name="tab_groups">Groups</string>
+    <string name="tab_status">Status</string>
+    <string name="tab_settings">Settings</string>
+    <!-- Chats -->
+    <string name="search_chats">Search chats/users</string>
+    <string name="title_chat">Chat</string>
+    <string name="type_message">Type a message</string>
+    <string name="send">Send</string>
+    <!-- Groups -->
+    <string name="new_group">New Group</string>
+    <string name="group_name_hint">Group Name</string>
+    <string name="create_group">Create Group</string>
+    <!-- Profile & Settings -->
+    <string name="profile">Profile</string>
+    <string name="my_profile">My Profile</string>
+    <string name="logout">Logout</string>
+</resources>
