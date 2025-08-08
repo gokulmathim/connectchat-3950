@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew dependencies",
+    "working_directory": "/home/kavia/workspace/code-generation/connectchat-3950/whatsapp_frontend"
+}
